@@ -2,9 +2,9 @@
 Atualmente estou estudando linguagens de programação <strong>Front-End</strong>, pelo curso DevQuest. Aqui vou conseguir compartilhar meus projetos para mostrar a evolução em desenvolvimento web.
 
 🔧 Ferramentas: <br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ### GitHub Stats
  <div>
    <a href="https://github.com/gabriel-cosendey">
